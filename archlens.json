@@ -11,28 +11,7 @@
         "completeView": {
             "packages": [],
             "ignorePackages": []
-        },
-        "apiView": {
-            "packages": [
-                {
-                    "packagePath": "api",
-                    "depth": 1
-                }
-            ],
-            "ignorePackages": [
-                
-            ]
-        },
-        "apiViewDepth": {
-            "packages": [
-                {
-                    "packagePath": "api",
-                    "depth": 1
-                }
-            ],
-            "ignorePackages": [
-                "*test*"
-            ]
         }
+       
     }
 }
